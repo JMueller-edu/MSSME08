@@ -13,7 +13,7 @@ language: Deutsch
 
 narrator: Deutsch Female
 
-comment: 
+comment: https://tinyurl.com/BSOMSS09
 
 link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
 
