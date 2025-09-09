@@ -64,34 +64,35 @@ gantt
     tickInterval 1week
     weekday monday
         section Einführung
-        1.Termin Organisation    :2025-08-25, 1d
-        2.Termin Erste Schritte Lego Spike    :2025-09-01, 1d
-        section Beobachten, Problem definieren, Prototypen testen
-        3.Termin     :2025-09-08, 1d
-        4.Termin     :2025-09-15, 1d
-        5.Termin     :2025-09-22, 1d
+        1. Termin Einführung    :2025-08-19, 1d
+        2.Termin Organisation    :2025-08-26, 1d
+        3.Termin Erste Schritte Lego Spike    :2025-09-02, 1d
+        section Erfinderteam
+        4.Termin     :2025-09-09, 1d
+        5.Termin     :2025-09-16, 1d
+        6.Termin     :2025-09-23, 1d
         section Unternehmensgründung
-        6.Termin     :2025-09-29, 1d
-        7.Termin     :2025-10-20, 1d
-        8.Termin     :2025-10-27, 1d
-        9.Termin     :2025-11-03, 1d
+        7.Termin     :2025-09-30, 1d
+        8.Termin     :2025-10-21, 1d
+        9.Termin     :2025-10-28, 1d
+        10.Termin    :2025-11-04, 1d
         section Alltagshelfer
-        10.Termin    :2025-11-10, 1d
-        11.Termin    :2025-11-17, 1d
-        12.Termin    :2025-11-24, 1d
-        13.Termin    :2025-12-01, 1d
+        11.Termin    :2025-11-11, 1d
+        12.Termin    :2025-11-18, 1d
+        13.Termin    :2025-11-25, 1d
+        14.Termin    :2025-12-02, 1d
         section Wettbewerbsvorbereitung
-        14.Termin    :2025-12-08, 1d
-        15.Termin    :2025-12-15, 1d
-        16.Termin    :2026-01-12, 1d
-        17.Termin    :2026-01-19, 1d
-        18.Termin    :2026-01-26, 1d
-```
-## Beobachten, Problem definieren, Prototypen testen
+        15.Termin    :2025-12-09, 1d
+        16.Termin    :2025-12-16, 1d
+        17.Termin    :2026-01-13, 1d
+        18.Termin    :2026-01-20, 1d
+        19.Termin    :2026-01-27, 1d
+    ```
+## Erfinderteam
 
 ```@mermaid
 timeline
-          Beobachten, Problem definieren, Prototypen testen.
+          Erfinderteam
           : S1 Hilfe!
           : S2 Hüpfer-Rennen
           : S3 Aufräumhilfe
