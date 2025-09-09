@@ -64,7 +64,7 @@ gantt
     tickInterval 1week
     weekday monday
         section Einführung
-        1. Termin Einführung    :2025-08-19, 1d
+        1.Termin Einführung    :2025-08-19, 1d
         2.Termin Organisation    :2025-08-26, 1d
         3.Termin Erste Schritte Lego Spike    :2025-09-02, 1d
         section Erfinderteam
@@ -87,7 +87,7 @@ gantt
         17.Termin    :2026-01-13, 1d
         18.Termin    :2026-01-20, 1d
         19.Termin    :2026-01-27, 1d
-    ```
+```
 ## Erfinderteam
 
 ```@mermaid
